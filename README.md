@@ -1,6 +1,6 @@
 # KarooTask
 
-When you download a project, please run 'pod install' in terminal to ensure that the project runs smoothly.
+**When you download a project, please run 'pod install' in terminal to ensure that the project runs smoothly.**
 
 I am maintaining a local sqlite database as you requested. The credentials that we had already created on local machines couldn't be shared.
 
