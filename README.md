@@ -15,3 +15,7 @@ Case 2 :- if it is existing user
 ================================
 
 If the user is already registered on the local sqlite database, you must enter a working password for that email address, otherwise the app will throw an error.
+
+Third Party SDK Details ================
+1. Lottie - To use animation in project , I have used to show loader while tap on Login
+2. Almofire
