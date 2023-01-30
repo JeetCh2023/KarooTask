@@ -20,3 +20,8 @@ Third Party SDK Details
 =======================
 1. Lottie - To use animation in project , I have used to show loader while tap on Login.
 2. Almofire
+
+
+
+https://user-images.githubusercontent.com/123189733/215378569-eee08b5d-2857-475e-847e-6237f4de0276.mp4
+
